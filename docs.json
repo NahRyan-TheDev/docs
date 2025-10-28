@@ -11,14 +11,12 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Guides",
+        "tab": "Codeform Studios",
         "groups": [
           {
             "group": "Getting started",
             "pages": [
-              "index",
-              "quickstart",
-              "development"
+              "index"
             ]
           },
           {
